@@ -12,7 +12,6 @@ WHERE ses.sid = tot.sid
   AND ses.value > 0
 ORDER BY ses.value DESC;
 
-
 /*
 STATISTIC                                                           SECONDS          %
 ---------------------------------------------------------------- ---------- ----------
